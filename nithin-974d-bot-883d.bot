@@ -1,0 +1,24 @@
+{
+    "name": "nithin-974d-bot-883d",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "https://nithin.cognitiveservices.azure.com/",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "qna",
+            "name": "nithin",
+            "kbId": "88f00270-ac2b-4ae7-859f-549ca25fb27b",
+            "hostname": "https://nithin-974d-bot-883d.azurewebsites.net/api/messages",
+            "endpointKey": "a846a0f1-b60e-4991-bd00-8694f33a38fa",
+            "subscriptionKey": "db5a176d-4d80-4709-b664-df44a385c329",
+            "id": "123"
+        }  
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
